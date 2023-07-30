@@ -1,0 +1,17 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "This my new math calculator application which going to performs math operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Math",
+    "Calculator",
+    "ionic",
+    "cordova"
+  ],
+  "author": "Venkatesh M (Vinsinfo)",
+  "license": "ISC"
+}
